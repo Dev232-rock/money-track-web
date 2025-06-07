@@ -2,8 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/6e80d2eb-ddb7-4062-be5f-75227eb72f5c
-
+**URL**: https://preview--money-track-web.lovable.app/
 ## How can I edit this code?
 
 There are several ways of editing your application.
